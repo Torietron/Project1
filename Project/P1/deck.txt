@@ -1,0 +1,4 @@
+
+enum for common fps points --  0,1,2 30,60,120 per second
+//fling relative, fling down to 2 case switch
+//relative screen
