@@ -35,9 +35,9 @@ int WINAPI WinMain( HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	if( DxLib_Init() == -1 ) return -1;
 
 	ChangeFont("Lucidia Sans Unicode");     //Georgia, Lucidia Sans Unicode                
-    ChangeFontType(Ui.FontType);
+    	ChangeFontType(Ui.FontType);
 	SetFontSize(Ui.FontSize);                             
-    SetFontThickness(Ui.FontThickness);    
+    	SetFontThickness(Ui.FontThickness);    
 	
 	//preload setup
 	SetDrawScreen(DX_SCREEN_BACK);
