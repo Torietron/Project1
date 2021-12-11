@@ -1,4 +1,4 @@
 # Project1
-First Application, C++
+First Prototype, C++
 
 To prevent confusion, this particular repository will not contain the library as I did not write, design, or modify that.
